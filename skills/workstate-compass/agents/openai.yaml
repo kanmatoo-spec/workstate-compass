@@ -1,0 +1,6 @@
+interface:
+  display_name: "Workstate Compass / スマート作業再開"
+  short_description: "Resume development with minimal checks and safe recovery"
+  default_prompt: "Use $workstate-compass to continue the current unfinished development task from the last confirmed state."
+policy:
+  allow_implicit_invocation: true
